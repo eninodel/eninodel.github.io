@@ -5,7 +5,8 @@ function Contact() {
         <h1 id="contact">Contact</h1>
         <hr />
       </div>
-      <p>Email: edninodel@gmail.com</p> <p>Phone: (253)-509-2430</p>
+      <h3>Email: edninodel@gmail.com</h3>
+      <h3>Phone: (253)-509-2430</h3>
     </div>
   );
 }

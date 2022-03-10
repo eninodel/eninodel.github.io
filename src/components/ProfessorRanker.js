@@ -21,6 +21,7 @@ function ProfessorRanker() {
         <a href="https://github.com/eninodel/ProfessorRanker">here</a> to view
         the repository.
       </p>
+      <hr />
     </div>
   );
 }

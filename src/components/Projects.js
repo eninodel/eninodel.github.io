@@ -1,5 +1,6 @@
 import ProfessorRanker from "./ProfessorRanker";
-import SpotifyMix from "./SpotifyMix";
+import WorkoutLogger from "./WorkoutLogger";
+import JamShare from "./JamShare";
 function Projects() {
   return (
     <div id="card">
@@ -7,8 +8,9 @@ function Projects() {
         <h1>Projects</h1>
         <hr />
       </div>
+      <WorkoutLogger />
+      <JamShare />
       <ProfessorRanker />
-      <SpotifyMix />
     </div>
   );
 }
